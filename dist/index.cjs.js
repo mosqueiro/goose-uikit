@@ -2816,10 +2816,10 @@ var templateObject_1$K;
 
 var baseColors = {
     failure: "#ED4B9E",
-    primary: "#aa8929",
-    primaryBright: "#aa8929",
-    primaryDark: "#aa8929",
-    secondary: "#7e5d37",
+    primary: "#124969",
+    primaryBright: "#124969",
+    primaryDark: "#124969",
+    secondary: "#0098da",
     success: "#31D0AA",
     warning: "#FFB237",
 };
@@ -2963,7 +2963,7 @@ var light$5 = {
 };
 var dark$5 = {
     background: darkColors.card,
-    hover: "#a07746",
+    hover: "#124969",
 };
 
 var light$6 = {
