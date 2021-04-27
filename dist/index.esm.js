@@ -2215,7 +2215,11 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/fanaticfinance",
+                href: "https://t.me/fanaticsfinance_EN",
+            },
+            {
+                label: "Português",
+                href: "https://t.me/fanaticsfinance_PT",
             },
         ],
     },
